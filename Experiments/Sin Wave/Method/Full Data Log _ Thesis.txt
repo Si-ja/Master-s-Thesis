@@ -1,0 +1,596 @@
+
+
+Time of the log made: 2019-10-27 18:57:30.546688
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+ __Clusters Log__
+> 80 neurons in class 0 
+> 176 neurons in class 1.
+
+Time of the log made: 2019-10-27 18:59:54.883234
+Layers: 1, Neurons: 80
+MSE:  0.0355
+MAE:  0.1494
+RMSE: 0.1884
+
+ __Clusters Log__
+> 35 neurons in class 0 
+> 45 neurons in class 1.
+
+Time of the log made: 2019-10-27 19:02:15.657813
+Layers: 1, Neurons: 35
+MSE:  0.0362
+MAE:  0.1508
+RMSE: 0.1902
+
+ __Clusters Log__
+> 15 neurons in class 0 
+> 20 neurons in class 1.
+
+Time of the log made: 2019-10-27 19:04:14.722556
+Layers: 1, Neurons: 15
+MSE:  0.0355
+MAE:  0.1491
+RMSE: 0.1883
+
+ __Clusters Log__
+> 6 neurons in class 0 
+> 9 neurons in class 1.
+
+Time of the log made: 2019-10-27 19:06:23.890711
+Layers: 1, Neurons: 6
+MSE:  0.0367
+MAE:  0.1521
+RMSE: 0.1916
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-10-27 19:08:32.532085
+Layers: 1, Neurons: 4
+MSE:  0.0362
+MAE:  0.1506
+RMSE: 0.1902
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-10-27 19:10:40.378880
+Layers: 1, Neurons: 2
+MSE:  0.0369
+MAE:  0.1522
+RMSE: 0.192
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:24:01.579943
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+
+Time of the log made: 2019-11-27 21:30:53.504263
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+ __Clusters Log__
+> 80 neurons in class 0 
+> 176 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:35:59.609545
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:43:15.607142
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+ __Clusters Log__
+> 80 neurons in class 0 
+> 176 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:44:56.502340
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:48:39.155841
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:49:03.933958
+Layers: 1, Neurons: 225
+MSE:  0.0403
+MAE:  0.1591
+RMSE: 0.2008
+
+ __Clusters Log__
+> 193 neurons in class 0 
+> 32 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:49:20.388018
+Layers: 1, Neurons: 193
+MSE:  0.0401
+MAE:  0.1587
+RMSE: 0.2002
+
+ __Clusters Log__
+> 170 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:49:37.466231
+Layers: 1, Neurons: 170
+MSE:  0.044
+MAE:  0.1675
+RMSE: 0.2096
+
+ __Clusters Log__
+> 152 neurons in class 0 
+> 18 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:52:22.077101
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:52:40.578412
+Layers: 1, Neurons: 225
+MSE:  0.0403
+MAE:  0.1591
+RMSE: 0.2008
+
+ __Clusters Log__
+> 193 neurons in class 0 
+> 32 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:52:53.806412
+Layers: 1, Neurons: 193
+MSE:  0.0401
+MAE:  0.1587
+RMSE: 0.2002
+
+ __Clusters Log__
+> 170 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:53:05.571339
+Layers: 1, Neurons: 170
+MSE:  0.044
+MAE:  0.1675
+RMSE: 0.2096
+
+ __Clusters Log__
+> 152 neurons in class 0 
+> 18 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:53:18.075343
+Layers: 1, Neurons: 152
+MSE:  0.0392
+MAE:  0.1567
+RMSE: 0.1979
+
+ __Clusters Log__
+> 135 neurons in class 0 
+> 17 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:56:12.887940
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+
+Time of the log made: 2019-11-27 21:56:58.267596
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:57:13.543835
+Layers: 1, Neurons: 225
+MSE:  0.0403
+MAE:  0.1591
+RMSE: 0.2008
+
+ __Clusters Log__
+> 193 neurons in class 0 
+> 32 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:57:27.351519
+Layers: 1, Neurons: 193
+MSE:  0.0401
+MAE:  0.1587
+RMSE: 0.2002
+
+ __Clusters Log__
+> 170 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:57:38.973529
+Layers: 1, Neurons: 170
+MSE:  0.044
+MAE:  0.1675
+RMSE: 0.2096
+
+ __Clusters Log__
+> 152 neurons in class 0 
+> 18 neurons in class 1.
+
+Time of the log made: 2019-11-27 21:59:26.497666
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+
+Time of the log made: 2019-11-27 21:59:54.518745
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:00:08.482749
+Layers: 1, Neurons: 225
+MSE:  0.0403
+MAE:  0.1591
+RMSE: 0.2008
+
+ __Clusters Log__
+> 193 neurons in class 0 
+> 32 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:03:11.835332
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+
+Time of the log made: 2019-11-27 22:03:35.684064
+Layers: 1, Neurons: 256
+MSE:  0.0402
+MAE:  0.1601
+RMSE: 0.2005
+
+ __Clusters Log__
+> 225 neurons in class 0 
+> 31 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:11:53.423207
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+
+Time of the log made: 2019-11-27 22:16:49.096302
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+ __Clusters Log__
+> 80 neurons in class 0 
+> 176 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:18:52.475064
+Layers: 1, Neurons: 80
+MSE:  0.0355
+MAE:  0.1494
+RMSE: 0.1884
+
+ __Clusters Log__
+> 35 neurons in class 0 
+> 45 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:20:58.740105
+Layers: 1, Neurons: 35
+MSE:  0.0362
+MAE:  0.1508
+RMSE: 0.1902
+
+ __Clusters Log__
+> 15 neurons in class 0 
+> 20 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:23:00.470123
+Layers: 1, Neurons: 15
+MSE:  0.0355
+MAE:  0.1491
+RMSE: 0.1883
+
+ __Clusters Log__
+> 6 neurons in class 0 
+> 9 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:24:58.921514
+Layers: 1, Neurons: 6
+MSE:  0.0367
+MAE:  0.1521
+RMSE: 0.1916
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:26:58.285812
+Layers: 1, Neurons: 4
+MSE:  0.0362
+MAE:  0.1506
+RMSE: 0.1902
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-11-27 22:28:57.677204
+Layers: 1, Neurons: 2
+MSE:  0.0369
+MAE:  0.1522
+RMSE: 0.192
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-25 23:50:00.660247
+Layers: 1, Neurons: 16
+MSE:  0.0369
+MAE:  0.153
+RMSE: 0.1922
+
+ __Clusters Log__
+> 9 neurons in class 0 
+> 7 neurons in class 1.
+
+Time of the log made: 2019-12-25 23:52:13.851387
+Layers: 1, Neurons: 9
+MSE:  0.0387
+MAE:  0.1565
+RMSE: 0.1968
+
+ __Clusters Log__
+> 6 neurons in class 0 
+> 3 neurons in class 1.
+
+Time of the log made: 2019-12-26 00:00:43.425530
+Layers: 1, Neurons: 16
+MSE:  0.0369
+MAE:  0.153
+RMSE: 0.1922
+
+
+Time of the log made: 2019-12-26 00:08:50.848119
+Layers: 1, Neurons: 16
+MSE:  0.0369
+MAE:  0.153
+RMSE: 0.1922
+
+
+Time of the log made: 2019-12-26 00:12:11.724279
+Layers: 1, Neurons: 16
+MSE:  0.0369
+MAE:  0.153
+RMSE: 0.1922
+
+
+Time of the log made: 2019-12-26 00:15:10.925350
+Layers: 1, Neurons: 16
+MSE:  0.0369
+MAE:  0.153
+RMSE: 0.1922
+
+
+Time of the log made: 2019-12-26 00:18:20.016486
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 00:25:56.179208
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 00:28:59.548222
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 00:29:18.745234
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 00:31:52.949821
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 00:33:30.827835
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 00:34:13.633605
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 00:38:04.265674
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:28:22.698733
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:29:33.960053
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:30:31.756311
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+
+Time of the log made: 2019-12-26 01:30:52.347118
+Layers: 1, Neurons: 16
+MSE:  0.0439
+MAE:  0.1662
+RMSE: 0.2095
+
+ __Clusters Log__
+> 16 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:37:23.535686
+Layers: 1, Neurons: 256
+MSE:  0.0356
+MAE:  0.1497
+RMSE: 0.1887
+
+ __Clusters Log__
+> 80 neurons in class 0 
+> 176 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:39:27.172511
+Layers: 1, Neurons: 80
+MSE:  0.0355
+MAE:  0.1494
+RMSE: 0.1884
+
+ __Clusters Log__
+> 35 neurons in class 0 
+> 45 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:41:25.736492
+Layers: 1, Neurons: 35
+MSE:  0.0362
+MAE:  0.1508
+RMSE: 0.1902
+
+ __Clusters Log__
+> 15 neurons in class 0 
+> 20 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:43:38.441356
+Layers: 1, Neurons: 15
+MSE:  0.0355
+MAE:  0.1491
+RMSE: 0.1883
+
+ __Clusters Log__
+> 6 neurons in class 0 
+> 9 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:45:58.076972
+Layers: 1, Neurons: 6
+MSE:  0.0367
+MAE:  0.1521
+RMSE: 0.1916
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:48:06.605330
+Layers: 1, Neurons: 4
+MSE:  0.0362
+MAE:  0.1506
+RMSE: 0.1902
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 2 neurons in class 1.
+
+Time of the log made: 2019-12-26 01:50:19.344622
+Layers: 1, Neurons: 2
+MSE:  0.0369
+MAE:  0.1522
+RMSE: 0.192
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.

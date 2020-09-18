@@ -1,0 +1,1 @@
+All notations with the word "Neuron(s)" should be changed to Units. It's a naming error, which was fixed only for the thesis text, but in some instances still can be found inside of the code or some file names.
