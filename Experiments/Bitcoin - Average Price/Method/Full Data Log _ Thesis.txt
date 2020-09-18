@@ -1,0 +1,213 @@
+
+
+Time of the log made: 2019-10-28 22:08:09.073684
+Layers: 1, Neurons: 64
+MSE:  10002.3926
+MAE:  87.0837
+RMSE: 100.012
+
+ __Clusters Log__
+> 52 neurons in class 0 
+> 12 neurons in class 1.
+
+Time of the log made: 2019-10-28 23:12:11.725109
+Layers: 1, Neurons: 16
+MSE:  2480.3484
+MAE:  38.3799
+RMSE: 49.8031
+
+ __Clusters Log__
+> 8 neurons in class 0 
+> 8 neurons in class 1.
+
+Time of the log made: 2019-10-28 23:55:48.324208
+Layers: 1, Neurons: 32
+MSE:  273.8579
+MAE:  12.3369
+RMSE: 16.5487
+
+ __Clusters Log__
+> 9 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-10-29 00:20:08.500776
+Layers: 1, Neurons: 9
+MSE:  1656.9356
+MAE:  39.1251
+RMSE: 40.7055
+
+ __Clusters Log__
+> 3 neurons in class 0 
+> 6 neurons in class 1.
+
+Time of the log made: 2019-10-29 00:41:33.915268
+Layers: 1, Neurons: 3
+MSE:  1495.7431
+MAE:  36.1733
+RMSE: 38.6748
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-10-29 01:03:07.432730
+Layers: 1, Neurons: 2
+MSE:  200.0641
+MAE:  8.3306
+RMSE: 14.1444
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
+
+Reruning to show smaller visual graphs
+
+Time of the log made: 2019-10-29 11:32:53.294996
+Layers: 1, Neurons: 32
+MSE:  517.3187
+MAE:  19.8109
+RMSE: 22.7446
+
+ __Clusters Log__
+> 9 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-10-29 11:57:40.850969
+Layers: 1, Neurons: 9
+MSE:  251.5229
+MAE:  11.7508
+RMSE: 15.8595
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 5 neurons in class 1.
+
+Time of the log made: 2019-10-29 12:17:57.086624
+Layers: 1, Neurons: 4
+MSE:  1206.9724
+MAE:  32.1458
+RMSE: 34.7415
+
+ __Clusters Log__
+> 3 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-10-29 12:38:31.621439
+Layers: 1, Neurons: 3
+MSE:  2868.2811
+MAE:  47.4188
+RMSE: 53.5563
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-10-29 12:59:32.454978
+Layers: 1, Neurons: 2
+MSE:  253.5375
+MAE:  11.1371
+RMSE: 15.9229
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-11-28 11:28:47.916325
+Layers: 1, Neurons: 32
+MSE:  517.3187
+MAE:  19.8109
+RMSE: 22.7446
+
+ __Clusters Log__
+> 9 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-11-28 11:55:37.511123
+Layers: 1, Neurons: 9
+MSE:  251.5229
+MAE:  11.7508
+RMSE: 15.8595
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 5 neurons in class 1.
+
+Time of the log made: 2019-11-28 12:19:26.508156
+Layers: 1, Neurons: 4
+MSE:  1206.9724
+MAE:  32.1458
+RMSE: 34.7415
+
+ __Clusters Log__
+> 3 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-11-28 12:42:58.559796
+Layers: 1, Neurons: 3
+MSE:  2868.2811
+MAE:  47.4188
+RMSE: 53.5563
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-11-28 13:05:54.876795
+Layers: 1, Neurons: 2
+MSE:  253.5375
+MAE:  11.1371
+RMSE: 15.9229
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
+
+Time of the log made: 2019-12-26 08:29:28.677004
+Layers: 1, Neurons: 32
+MSE:  517.3187
+MAE:  19.8109
+RMSE: 22.7446
+
+ __Clusters Log__
+> 9 neurons in class 0 
+> 23 neurons in class 1.
+
+Time of the log made: 2019-12-26 08:54:04.340811
+Layers: 1, Neurons: 9
+MSE:  251.5229
+MAE:  11.7508
+RMSE: 15.8595
+
+ __Clusters Log__
+> 4 neurons in class 0 
+> 5 neurons in class 1.
+
+Time of the log made: 2019-12-26 09:14:13.287507
+Layers: 1, Neurons: 4
+MSE:  1206.9724
+MAE:  32.1458
+RMSE: 34.7415
+
+ __Clusters Log__
+> 3 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-12-26 09:34:20.886694
+Layers: 1, Neurons: 3
+MSE:  2868.2811
+MAE:  47.4188
+RMSE: 53.5563
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 1 neurons in class 1.
+
+Time of the log made: 2019-12-26 09:54:10.685224
+Layers: 1, Neurons: 2
+MSE:  253.5375
+MAE:  11.1371
+RMSE: 15.9229
+
+ __Clusters Log__
+> 2 neurons in class 0 
+> 0 neurons in class 1.
