@@ -4,7 +4,7 @@ This is a code base I created and used for researching information on my Master'
 
 ## Topic: __Pruning of Long Short-Term Memory Neural Networks: Passes of Redundant Data Patterns__
 
-The research was focused on the domain of pruning of Neural Networks. After gathering of preliminary information, I wanted to experiment in application of own created methodology to pruning of shallow LSTM Neural Networks, training to predict future values in univariate time-series datasets, applying knowledge learned and several techniques available in the data science. The method was experimental and was compared in its effectivness to the methods described in State of The Art pruning (SOTA) methodologies.
+The research was focused on the domain of pruning of Neural Networks. After gathering of preliminary information, I wanted to experiment in application of own created methodology to pruning of shallow LSTM Neural Networks (trained to predict future values in univariate time-series datasets), applying knowledge learned and several techniques available in the data science. The method was experimental and was compared in its effectivness to the methods described in State of The Art pruning (SOTA) methodologies.
 
 ## Summary
 
